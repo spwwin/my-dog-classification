@@ -14,6 +14,8 @@ https://drive.google.com/open?id=1IW8_gueI4yKbxfV-CWV_4HGt0tIOnShc
 
 ## Usage
 
+*Make sure you run the python file with Python v.3.7+, else some function might not working properly*
+
 To initially fine-tune the model with prepared dataset
 
 ```bash
