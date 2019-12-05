@@ -8,7 +8,7 @@ Use the package manager like [pip](https://pip.pypa.io/en/stable/) to install re
 pip install keras
 pip install tensorflow
 ```
-Download fine-tuned model and extract the file in the same directory where the python files are.
+Download a fine-tuned model and extract the file in the same directory where the python files are.
 
 https://drive.google.com/open?id=1IW8_gueI4yKbxfV-CWV_4HGt0tIOnShc
 
