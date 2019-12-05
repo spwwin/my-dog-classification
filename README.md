@@ -31,5 +31,5 @@ python3 evaluate.py
 
 ## Contributors
 
-Thanwarat Tanprathumwong #5988176
+Thanwarat Tanprathumwong #5988176\
 Supawit Yangyuenpradorn #5988276
